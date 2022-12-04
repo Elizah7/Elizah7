@@ -9,7 +9,7 @@ I am Uddeshy Jaiswal a young aspiring Full stack Mern Web-Develpoer pass-out fro
 [<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>]((https://www.linkedin.com/in/uddeshy-jaiswal-56a69a201/))
 
 
-[<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>]((https://www.facebook.com/uddeshy.jaiswal.12/))
+[<img width="50px" height="50px" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png"/>]((https://www.facebook.com/uddeshy.jaiswal.12/))
 
 
 [<img width="50px" height="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail)
