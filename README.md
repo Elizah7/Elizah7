@@ -2,7 +2,7 @@
 
 I am Uddeshy Jaiswal a young aspiring Full stack Mern Web-Develpoer pass-out from masai school who loves to learn new technologies and solve new problems
 
- Connect with me 
+My Contacts
 
 
 [<img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/uddeshy-jaiswal-56a69a201/)
