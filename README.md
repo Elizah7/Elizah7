@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uddeshy Jaiswal</h1>
-<h3 align="center">I am Uddeshy Jaiswal a young aspiring Full stack Mern Web-Develpoer pass-out from masai school who loves to learn new technologies and solve new problems</h3>
+<h3 align="center"> A young aspiring Full stack Mern Web-Develpoer pass-out from masai school who loves to learn new technologies and solve new problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizah7&label=Profile%20views&color=0e75b6&style=flat" alt="elizah7" /> </p>
 
