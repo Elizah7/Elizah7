@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uddeshy Jaiswal</h1>
 <h3 align="center"> A young aspiring Full stack Mern Web-Develpoer pass-out from masai school who loves to learn new technologies and solve new problems</h3>
-
+<img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" width="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizah7&label=Profile%20views&color=0e75b6&style=flat" alt="elizah7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elizah7" alt="elizah7" /></a> </p>
