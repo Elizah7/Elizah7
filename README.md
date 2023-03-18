@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web,Devolopment, Javascript,React,TypeScript,Chakra-UI,**
 
-- 📫 How to reach me **uddeshiv@gmail.com**
+- 📫 How to reach me **uddeshiv0@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1w8xjXMvNmvfHTpT-psnIisraD-ZbDBx1/view?usp=share_link](https://drive.google.com/file/d/1w8xjXMvNmvfHTpT-psnIisraD-ZbDBx1/view?usp=share_link)
 
