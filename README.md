@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://elizah7.github.io/](https://elizah7.github.io/)
 
-- 💬 Ask me about **Web,Devolopment, Javascript,React,TypeScript,Chakra-UI,**
+- 💬 Ask me about **Web,Devolopment, Javascript, ReactJs, NodeJs, Express, MongoDb, Chakra-UI,**
 
 - 📫 How to reach me **uddeshiv0@gmail.com**
 
