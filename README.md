@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uddeshy jaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/uddeshy jaiswal?logo=twitter&style=for-the-badge" alt="uddeshy jaiswal" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **NodeJs MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://elizah7.github.io/](https://elizah7.github.io/)
 
