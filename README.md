@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJs MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://elizah7.github.io/]([https://elizah7.github.io](https://uddeshy-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at (https://uddeshy-portfolio.vercel.app)
 
 - 💬 Ask me about **Web,Devolopment, Javascript, ReactJs, NodeJs, Express, MongoDb, Chakra-UI,**
 
