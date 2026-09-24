@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uddeshy Jaiswal</h1>
 <h3 align="center">MERN Full Stack Developer with 2.5+ years of experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. 
 Experienced in developing ERP modules end-to-end, including database schemas, RESTful APIs, backend routes, and frontend integration, with 
-hands-on experience in testing and debugging. Skilled in building responsive user interfaces and integrating APIs, with experience improving a 
+hands-on experience in testing and debugging. Skilled in building responsive user interfaces and integrating APIs.
 </h3>
 <img src="https://i0.wp.com/www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?fit=800%2C474&ssl=1" width="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizah7&label=Profile%20views&color=0e75b6&style=flat" alt="elizah7" /> </p>
